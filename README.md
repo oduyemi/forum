@@ -72,9 +72,9 @@ Contributions to the Forum frontend project are welcome! To contribute, follow t
 5. Submit a pull request to the main Forum repository for review and inclusion.
 
 ## Credits
-Forum frontend was developed by the ProGrowing development team. It is part of the ProGrowing platform aimed at fostering collaboration and knowledge sharing among the ProGrowing community.
+Forum frontend was developed by me. It is part of the ProGrowing platform aimed at fostering collaboration and knowledge sharing among the ProGrowing community.
 
 ## License
 The Forum frontend project is open-source and licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your projects.
 
-For any questions or issues, please contact the ProGrowing support team at support@progrowing.com.
+For any questions or issues, please contact the ProGrowing support team at support@progrowing.org.
